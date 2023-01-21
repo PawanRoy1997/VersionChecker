@@ -8,17 +8,17 @@ A kotlin library for android platform to efficiently check the build version of 
 In settings.gralde
 ```groovy
 allprojects {
-		repositories {
-			maven { url 'https://jitpack.io' }
-		}
-	}
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
 
 In project build.gradle
 
 ```groovy
 dependencies {
-	        implementation 'com.github.PawanRoy1997:VersionChecker:1.0.0'
+    implementation 'com.github.PawanRoy1997:VersionChecker:1.0.0'
 }
 ```
 
