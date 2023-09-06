@@ -1,5 +1,6 @@
 # Version Checker
 ![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+[![](https://jitpack.io/v/PawanRoy1997/VersionChecker.svg)](https://jitpack.io/#PawanRoy1997/VersionChecker)
 
 A kotlin library for android platform to efficiently check the build version of android device which reduces the effort to continuously writing if cases.
 
