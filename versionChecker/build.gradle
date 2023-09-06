@@ -39,8 +39,8 @@ afterEvaluate {
         publications {
             release(MavenPublication){
                 from components.release
-                groupId = ""
-                artifactId = "versionchecker"
+                groupId = "com.github.PawanRoy1997"
+                artifactId = "VersionChecker"
                 version = "1.0.3"
             }
         }
