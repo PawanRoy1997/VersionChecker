@@ -6,7 +6,7 @@ A kotlin library for android platform to efficiently check the build version of 
 
 ## Installation
 
-In settings.gralde
+In settings.gradle
 ```groovy
 allprojects {
     repositories {
